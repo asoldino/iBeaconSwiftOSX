@@ -1,7 +1,7 @@
 iBeaconSwiftOSX
 ===
 
-[Yosemite as an iBeacon](https://updatemycode.com/2014/11/29/yosemite-as-an-ibeacon-swift/) written in Swift.
+[ElCaptain as an iBeacon](https://updatemycode.com/2014/11/29/yosemite-as-an-ibeacon-swift/) written in Swift.
 
 This application runs on Yosemite (OS X 10.10).
 
